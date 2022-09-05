@@ -1,4 +1,4 @@
-import Billings from './Billing';
+import Billing from './Billing';
 import Business from './Business';
 import Button from './Button';
 import CardDeal from './CardDeal';
@@ -10,10 +10,10 @@ import GetStarted from './GetStarted';
 import Hero from './Hero';
 import Navbar from './Navbar';
 import Stats from './Stats';
-import Testimonial from './Testimonials';
+import Testimonials from './Testimonials';
 
 export {
-    Billings,
+    Billing,
     Business,
     Button,
     CardDeal,
@@ -25,5 +25,5 @@ export {
     Hero,
     Navbar,
     Stats,
-    Testimonial,
+    Testimonials,
 };
